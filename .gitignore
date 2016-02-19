@@ -1,0 +1,7 @@
+.idea
+xmlfiles/*
+upload/doc/*
+upload/image/*
+test*
+.DS_Store
+
