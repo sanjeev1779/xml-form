@@ -2,6 +2,7 @@
 xmlfiles/*
 upload/doc/*
 upload/image/*
-test*
+!xmlfiles/xml0.xml
+!upload/doc/Bus*
+!upload/image/best damn thing.png
 .DS_Store
-
